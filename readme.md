@@ -10,6 +10,7 @@ Use this `Profile` schema and **don't modify it**
 | `fullName`  | _string_    |   -    |
 | `username`  | _string_    |  yes   |
 | `email`     | _string_    |  yes   |
+| `password`  | _string_    |   -    |
 | `avatar`    | _string_    |   -    |
 | `active`    | _boolean_   |   -    |
 | `createdAt` | _timestamp_ |   -    |
