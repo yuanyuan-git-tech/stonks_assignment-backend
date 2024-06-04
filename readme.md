@@ -53,9 +53,9 @@ Here is the minimum 3 roles: `SUPERADMIN / HOST / ADMIN`
 
 - `SUPERADMIN` are high level role, only stonks staff can be SUPERADMIN.
 
-- `HOST` can perform actions in chat messages.
+- `HOST` can perform all actions + /set admin and /unset admin in chat messages.
 
-- `SUPERADMIN` are high level role, only stonks staff can be SUPERADMIN.
+- `ADMIN` can perform /mute /unmute /ban /unban /set title and description.
 
 ### Bonus
 
