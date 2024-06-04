@@ -51,7 +51,7 @@ Each channels has a livechat where unauth and authenticated users can receive me
 
 Here is the minimum 3 roles: `SUPERADMIN / HOST / ADMIN`
 
-- `SUPERADMIN` are high level role, only stonks staff can be SUPERADMIN.
+- `SUPERADMIN` are high level role, only stonks staff can be SUPERADMIN and can perform any actions in any channels.
 
 - `HOST` can perform all actions + /set admin and /unset admin in chat messages.
 
